@@ -1,0 +1,22 @@
+
+.sidenav{
+  width: 250px;
+  height: 90vh;
+  background-color: rebeccapurple;
+}
+.overall{
+  display: flex;
+  width: 100%;
+  height: 90vh;
+}
+.outlet{
+  width: 80%;
+  background-color: red;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  background-color: hotpink;
+  width: 100%;
+}
